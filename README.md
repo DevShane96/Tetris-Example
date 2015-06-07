@@ -1,0 +1,3 @@
+# Tetris-Example
+-EDUCATIONAL-
+c
